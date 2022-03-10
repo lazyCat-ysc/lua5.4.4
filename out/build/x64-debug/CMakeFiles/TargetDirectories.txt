@@ -1,0 +1,3 @@
+E:/WorkSpace/study/cmake/lua/out/build/x64-debug/CMakeFiles/lua.dir
+E:/WorkSpace/study/cmake/lua/out/build/x64-debug/CMakeFiles/edit_cache.dir
+E:/WorkSpace/study/cmake/lua/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
